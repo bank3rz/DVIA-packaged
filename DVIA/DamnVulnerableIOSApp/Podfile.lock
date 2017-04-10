@@ -1,0 +1,31 @@
+PODS:
+  - Bolts/Tasks (1.8.4)
+  - couchbase-lite-ios (1.4.0):
+    - couchbase-lite-ios/SQLite (= 1.4.0)
+  - couchbase-lite-ios/SQLite (1.4.0)
+  - Flurry-iOS-SDK/FlurrySDK (8.0.0)
+  - GoogleAnalytics (3.17.0)
+  - Parse (1.14.4):
+    - Bolts/Tasks (~> 1.8)
+  - Realm (2.5.1):
+    - Realm/Headers (= 2.5.1)
+  - Realm/Headers (2.5.1)
+
+DEPENDENCIES:
+  - couchbase-lite-ios
+  - Flurry-iOS-SDK/FlurrySDK
+  - GoogleAnalytics
+  - Parse
+  - Realm
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  couchbase-lite-ios: 5b9f59ce74c2d981c41795f0949d31354d90c459
+  Flurry-iOS-SDK: 58f3e62320e1f92ce002b59905986ffdab7d8b82
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  Parse: b0aa91d2c435e53d4a9af26e741e014c9b35c42e
+  Realm: 32f86104d37c8521f864d4274050b38ba6190733
+
+PODFILE CHECKSUM: 64e719c4340ba7f4c70c6b2600b9743073042613
+
+COCOAPODS: 1.2.0
